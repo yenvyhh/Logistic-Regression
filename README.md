@@ -1,4 +1,4 @@
-# Logistic-Regression
+Projekt 1 - Logistic Regression
 
 edes Repository enthält
  Übungsaufgabe, z.B. die Kopie des jupyter Notebooks mit der Musterlösung 
