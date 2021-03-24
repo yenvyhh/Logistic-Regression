@@ -27,9 +27,10 @@ from sklearn.metrics import classification_report
 ad_data=pd.DataFrame(pd.read_csv("Advertising.csv"))
 ad_data.head()
 
-# Informationen und Details des Data Frames bzw. der Liste anzeigen lassen:
+# Informationen und Details des Data Frames bzw. der Daten anzeigen lassen:
 ad_data.info()
 ad_data.describe()
+# Bei Info wird angezeigt, ob die Spalten einen Float, ein Integer oder ein Object sind. Bei Descibe wird ein Dataset der Analyse geprintet. Beispiele hierfür sind der Durchschnittswert, der Minimum- oder Maximum-Wert.
 
 # Darauffolgend erfolgt eine EXPLORATIVE DATENANALYSE, die durch verschiedene Diagrammvisualisierungen dargestellt werden. Ein Beispiel, das ausgeführt wird:
 sns.distplot(ad_data["Age"],kde=False,bins=30) 
