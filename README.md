@@ -1,5 +1,7 @@
 # Projekt 1 - Logistic Regression
 
+https://mybinder.org/v2/gh/yenvyhh/Logistic-Regression/HEAD
+
 **Bei Verwendung des Jupyter Notebooks und zur Durchführung der erforderten Übungsaufgaben, müssen zunächst folgende Installationen durchgeführt werden:**
 -> %conda install pandas 
 -> %conda install numpy
