@@ -1,6 +1,6 @@
 # Projekt 1 - Logistic Regression
 
-https://mybinder.org/v2/gh/yenvyhh/Logistic-Regression/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yenvyhh/Logistic-Regression/HEAD)
 
 **Bei Verwendung des Jupyter Notebooks und zur Durchführung der erforderten Übungsaufgaben, müssen zunächst folgende Installationen durchgeführt werden:**
 -> %conda install pandas 
