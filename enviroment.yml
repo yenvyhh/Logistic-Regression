@@ -1,1 +1,9 @@
-
+name: Logistic Regression
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - python
