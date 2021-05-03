@@ -3,6 +3,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yenvyhh/Logistic-Regression/main?filepath=Logistische%20Regression%20-%20Projekt%201.ipynb)
 
 
+**Zu Beginn bitte unter "Cell" -> "Run All" auswählen.**
+
 **Die Daten importieren,als DataFrame abspeichern und das Head anzeigen lassen:**
 ad_data=pd.DataFrame(pd.read_csv("Advertising.csv"))
 ad_data.head()
